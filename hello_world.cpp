@@ -12,8 +12,8 @@
 
 int main() {
 // int maint = function returns an int
-    std::cout << "Hello World!\n";
-    return 0;
+	std::cout << "Hello World!\n";
+	return 0;
 }
 /* functions always need to return something
 **it is customary to return a 0 at the end of main, as

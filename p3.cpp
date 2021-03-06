@@ -11,15 +11,15 @@
 
 int main()
 {
-    using namespace std;
-    //sets std library for this specific function
-    cout<<"int size = "<<sizeof(int)<<"\n";
-    cout<<"int size = "<<sizeof(short)<<"\n";
-    cout<<"int size = "<<sizeof(long)<<"\n";
-    cout<<"int size = "<<sizeof(char)<<"\n";
-    cout<<"int size = "<<sizeof(float)<<"\n";
-    cout<<"int size = "<<sizeof(double)<<"\n";
-    cout<<"int size = "<<sizeof(bool)<<"\n";
+	using namespace std;
+	//sets std library for this specific function
+	cout<<"int size = "<<sizeof(int)<<"\n";
+	cout<<"int size = "<<sizeof(short)<<"\n";
+	cout<<"int size = "<<sizeof(long)<<"\n";
+	cout<<"int size = "<<sizeof(char)<<"\n";
+	cout<<"int size = "<<sizeof(float)<<"\n";
+	cout<<"int size = "<<sizeof(double)<<"\n";
+	cout<<"int size = "<<sizeof(bool)<<"\n";
 
-    return 0;
+	return 0;
 }

@@ -6,9 +6,9 @@ using namespace std;
 
 int main()
 {
-    cout << "hey, writing std:: is pain, ";
-    cout << "change the program so I don't have to write it. \n";
-    return 0;
+	cout << "hey, writing std:: is pain, ";
+	cout << "change the program so I don't have to write it. \n";
+	return 0;
 }
 
 //Notes
