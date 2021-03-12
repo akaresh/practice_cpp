@@ -12,7 +12,7 @@
 
 int main() {
 // int maint = function returns an int
-	std::cout << "Hello World!\n";
+	std::cout << "Hello!\n";
 	return 0;
 }
 /* functions always need to return something
@@ -23,6 +23,9 @@ int main() {
 **returns 0 = at the end of main = indicates the program completed
 **without errors
 **cout = command to printout to the console
-**std:: before out is necessary, because cout is part of the standard library */
+**std:: before out is necessary, because cout is part of the standard library
+
+Running: g++ hello_world.cpp -o hello && ./hello *
+makefiles/
 
 

@@ -25,6 +25,10 @@ int main()
 	cout<<"Floats"<<setw(10);
 	cout<<"Doubles"<<setw(10) << "\n";
 
+	cout<<a;
+	cout<<setw(12)<<b;
+	cout<<setw(10)<<c<<"\n";
+
 	cout<<aa;
 	cout<<setw(12)<<bb;
 	cout<<setw(10)<<cc<<"\n";
